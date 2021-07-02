@@ -1,0 +1,18 @@
+.controls {
+  top: 0;
+  display: inline;
+}
+.controls .fa-icon {
+  cursor: pointer;
+  font-size: 3rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 30%;
+  box-shadow: 0 0 6px black;
+  color: #071a54;
+  background: linear-gradient(
+    90deg,
+    rgb(142, 143, 207) 0%,
+    rgb(220, 229, 236) 100%
+  );
+}

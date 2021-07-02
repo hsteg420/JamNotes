@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  cursor: crosshair;
+  background: white;
+}
+
+.style {
+  border-style: solid solid solid solid;
+  border-width: 25px;
+}
+.icons {
+  top: 0;
+  display: inline;
+}
+
+.fa-icon {
+  cursor: pointer;
+  font-size: 3rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 30%;
+  box-shadow: 0 0 6px black;
+  z-index: 2;
+  color: #071a54;
+  background: linear-gradient(
+    90deg,
+    rgb(142, 143, 207) 0%,
+    rgb(220, 229, 236) 100%
+  );
+}
+
+

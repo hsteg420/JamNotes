@@ -1,0 +1,24 @@
+.pdf-style{
+    margin: 0% 20% 8% 10%;
+    background-image: url("../ruled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    word-wrap: break-word;
+    margin-left: 20%;
+    padding: 30px 50px;
+}
+p {
+    padding: 5% 2% 5% 10%;
+    font-size: 5px;
+    line-height: 32px;
+    color: rgb(18, 18, 209);
+}
+.btn2 {
+    padding: 0.5% 1%;
+    border-radius: 8px;
+    margin: 0% 1%;
+    font-size: 0.9rem;
+    font-weight: 600;
+    font-family: "Josefin Sans", cursive;
+  }
+  
